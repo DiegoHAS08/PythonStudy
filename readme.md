@@ -23,3 +23,9 @@ Cada pasta contém:
 
 Sinta-se à vontade para explorar os exercícios e executar os códigos no terminal.  
 
+---
+
+## 📬 Contato
+
+- **Email:** diegohasbr@gmail.com  
+- **Telefone/WhatsApp:** +55 (61) 99875-1827
